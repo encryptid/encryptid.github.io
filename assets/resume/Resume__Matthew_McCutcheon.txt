@@ -1,0 +1,75 @@
+Matthew McCutcheon
+Front-End Web Engineer & Image Maker
+Seeking challenging roles which engage my technical skills in the creation of websites, apps, data archives, and/or imagery.
+
+Website: https://encryptid.github.io
+E-mail: mwtheta@protonmail.com
+Location: Orange County, CA
+
+Education:
+California State University - Long Beach (September 2011 - June 2015)
+Bachelor of Arts Degree - Focus in Art Photography
+3.5 GPA, Dean's Honors List (Several semesters), President's Honors List (Several semesters)
+Art Exhibition: This Image Before Me (2015), Gatov Galleries, Long Beach, CA
+
+Skills:
+Front-End Web Development
+Image Capture & Processing
+HTML5
+CSS3
+Sass
+JavaScript
+Node.js
+Vue.js
+Nuxt.js
+Svelte
+REST APIs
+Git
+Bootstrap
+MongoDB
+Web Scraping
+Batch Scripting
+Data Visualization
+Encryption
+State Management
+Visual Studio Code
+Chrome Dev Tools
+Responsive & Mobile-First Design
+Adobe Creative Suite
+ImageMagick
+FFmpeg
+Audacity
+Problem-Solving
+Self-Taught / Self-Starter
+~90 WPM Type Speed
+Highly Organized
+
+Project Showcase:
+IMDb Top 250 TV Shows
+Skills & tech: Vue, Nuxt, data visualization, Node.js, batch scripting, web scraping, encryption, search.
+Link: http://oval-hospital.surge.sh, Code: Available upon request
+
+To Do List
+Skills & tech: Vue, Nuxt, state management (Vuex), file import and export, Bootstrap, sort, search.
+Link: http://strange-wind.surge.sh, Code: Available upon request
+
+U.S. Congress 117
+Skills & tech: Vue, Nuxt, data visualization, Node.js, batch scripting, web scraping, encryption, search.
+Link: http://sincere-decision.surge.sh, Code: Available upon request
+
+GitHub Stats
+Skills & tech: Vue, Nuxt, API integration, data visualization, Node.js, batch scripting.
+Link: http://youthful-turkey.surge.sh, Code: Available upon request
+
+Browser Bookmarks Map
+Skills & tech: CLI tool, file import and export, Node.js, parsing user input.
+Link: http://momentous-drug.surge.sh, Code: Available upon request
+
+Pet Finder
+Skills & tech: Vue, Nuxt, API integration, OAuth authorization, translated project from Vue to Svelte.
+Link: http://thick-goldfish.surge.sh, Code: Available upon request
+
+Languages:
+English (Fluent)
+Spanish (Basic)
+German (Basic)
