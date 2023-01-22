@@ -26,6 +26,7 @@ Svelte
 REST APIs
 Git
 Bootstrap
+jQuery
 MongoDB
 Web Scraping
 Batch Scripting
