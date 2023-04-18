@@ -48,27 +48,27 @@ Highly Organized
 Project Showcase:
 IMDb Top 250 TV Shows
 Skills & tech: Vue, Nuxt, data visualization, Node.js, batch scripting, web scraping, encryption, search.
-Link: http://oval-hospital.surge.sh, Code: Available upon request
+Link: http://imdb-ratings.surge.sh, Code: Available upon request
 
 To Do List
 Skills & tech: Vue, Nuxt, state management (Vuex), file import and export, Bootstrap, sort, search.
-Link: http://strange-wind.surge.sh, Code: Available upon request
+Link: http://youthful-sugar.surge.sh, Code: Available upon request
 
 U.S. Congress 117
 Skills & tech: Vue, Nuxt, data visualization, Node.js, batch scripting, web scraping, encryption, search.
-Link: http://sincere-decision.surge.sh, Code: Available upon request
+Link: http://handsome-giraffe.surge.sh, Code: Available upon request
 
 GitHub Stats
 Skills & tech: Vue, Nuxt, API integration, data visualization, Node.js, batch scripting.
-Link: http://youthful-turkey.surge.sh, Code: Available upon request
+Link: http://gusty-cover.surge.sh, Code: Available upon request
 
 Browser Bookmarks Map
 Skills & tech: CLI tool, file import and export, Node.js, parsing user input.
-Link: http://momentous-drug.surge.sh, Code: Available upon request
+Link: http://jagged-copper.surge.sh, Code: Available upon request
 
 Pet Finder
 Skills & tech: Vue, Nuxt, API integration, OAuth authorization, translated project from Vue to Svelte.
-Link: http://thick-goldfish.surge.sh, Code: Available upon request
+Link: http://parallel-quarter.surge.sh, Code: Available upon request
 
 Languages:
 English (Fluent)
