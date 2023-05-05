@@ -2,19 +2,19 @@ Matthew McCutcheon
 Front-End Web Engineer & Image Maker
 Seeking challenging roles which engage my technical skills in the creation of websites, apps, data archives, and/or imagery.
 
-Website: https://encryptid.github.io
+Portfolio: https://encryptid.github.io
 E-mail: mwtheta@protonmail.com
 Location: Orange County, CA
 
 Education:
 California State University - Long Beach (September 2011 - June 2015)
 Bachelor of Arts Degree - Focus in Art Photography
-3.5 GPA, Dean's Honors List (Several semesters), President's Honors List (Several semesters)
+3.5 GPA, Dean's Honor List (Several semesters), President's Honor List (Several semesters)
 Art Exhibition: This Image Before Me (2015), Gatov Galleries, Long Beach, CA
 
 Skills:
 Front-End Web Development
-Image Capture & Processing
+Image Capture and Processing
 HTML5
 CSS3
 Sass
@@ -35,7 +35,7 @@ Encryption
 State Management
 Visual Studio Code
 Chrome Dev Tools
-Responsive & Mobile-First Design
+Responsive and Mobile-First Design
 Adobe Creative Suite
 ImageMagick
 FFmpeg
@@ -45,32 +45,22 @@ Self-Taught / Self-Starter
 ~90 WPM Type Speed
 Highly Organized
 
+Languages:
+English (Fluent), Spanish (Basic), German (Basic)
+
 Project Showcase:
 IMDb Top 250 TV Shows
-Skills & tech: Vue, Nuxt, data visualization, Node.js, batch scripting, web scraping, encryption, search.
+Used Node.js, batch files, cURL, and ImageMagick to scrape data as well as download and resize images from IMDb pages for 250 TV shows. Vue.js and Nuxt.js were used to render content server-side and create dynamic pages for each TV show. Chart.js was used to create charts for the ratings for every season of each TV show.
 Link: http://imdb-ratings.surge.sh, Code: Available upon request
 
 To Do List
-Skills & tech: Vue, Nuxt, state management (Vuex), file import and export, Bootstrap, sort, search.
+Used Vue.js along with BootstrapVue components, icons, and classes to quickly scaffold the project. Vuex was used for state management, the file-saver package was used to export data as JSON, and the FileReader web API was used to read previously saved files.
 Link: http://youthful-sugar.surge.sh, Code: Available upon request
 
 U.S. Congress 117
-Skills & tech: Vue, Nuxt, data visualization, Node.js, batch scripting, web scraping, encryption, search.
+Used Node.js, batch files, cURL, and ImageMagick to scrape data as well as download and resize images from 3 APIs and a webpage. Vue.js and Nuxt.js were used to render content server-side and create dynamic pages for each representative. Chart.js was used to create 13 charts for congress as a whole and several charts for each representative.
 Link: http://handsome-giraffe.surge.sh, Code: Available upon request
 
-GitHub Stats
-Skills & tech: Vue, Nuxt, API integration, data visualization, Node.js, batch scripting.
-Link: http://gusty-cover.surge.sh, Code: Available upon request
-
-Browser Bookmarks Map
-Skills & tech: CLI tool, file import and export, Node.js, parsing user input.
-Link: http://jagged-copper.surge.sh, Code: Available upon request
-
-Pet Finder
-Skills & tech: Vue, Nuxt, API integration, OAuth authorization, translated project from Vue to Svelte.
-Link: http://parallel-quarter.surge.sh, Code: Available upon request
-
-Languages:
-English (Fluent)
-Spanish (Basic)
-German (Basic)
+Time Tracker
+Vue.js was used to build the project. Mathematics and the moment package were used to create dynamic progress bars which visualize several durations of time. The project was also recreated using the Svelte framework.
+Link: http://previous-expert.surge.sh, Code: Available upon request
