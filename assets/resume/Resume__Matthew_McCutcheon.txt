@@ -1,5 +1,5 @@
 Matthew McCutcheon
-Front-End Web Engineer & Image Maker
+Front-End Web Engineer and Image Maker
 Seeking challenging roles which engage my technical skills in the creation of websites, apps, data archives, and/or imagery.
 
 Portfolio: https://encryptid.github.io
@@ -22,6 +22,7 @@ JavaScript
 Node.js
 Vue.js
 Nuxt.js
+React
 Svelte
 REST APIs
 Git
@@ -62,5 +63,5 @@ Used Node.js, batch files, cURL, and ImageMagick to scrape data as well as downl
 Link: http://handsome-giraffe.surge.sh, Code: Available upon request
 
 Time Tracker
-Vue.js was used to build the project. Mathematics and the moment package were used to create dynamic progress bars which visualize several durations of time. The project was also recreated using the Svelte framework.
+Vue.js was used to build the project. Mathematics and the moment package were used to create dynamic progress bars which visualize several durations of time. The project was also recreated using the React and Svelte frameworks.
 Link: http://previous-expert.surge.sh, Code: Available upon request
