@@ -8,7 +8,7 @@ Location: Orange County, CA
 
 Education:
 California State University - Long Beach (September 2011 - June 2015)
-Bachelor of Arts Degree - Focus in Art Photography
+Bachelor of Fine Arts Degree - Focus in Art Photography
 3.5 GPA, Dean's Honor List (Several semesters), President's Honor List (Several semesters)
 Art Exhibition: This Image Before Me (2015), Gatov Galleries, Long Beach, CA
 
@@ -24,6 +24,7 @@ Vue.js
 Nuxt.js
 React
 Svelte
+Neutralino
 REST APIs
 Git
 Bootstrap
@@ -55,7 +56,7 @@ Used Node.js, batch files, cURL, and ImageMagick to scrape data as well as downl
 Link: http://imdb-ratings.surge.sh, Code: Available upon request
 
 To Do List
-Used Vue.js along with BootstrapVue components, icons, and classes to quickly scaffold the project. Vuex was used for state management, the file-saver package was used to export data as JSON, and the FileReader web API was used to read previously saved files.
+Used Vue.js along with BootstrapVue components, icons, and classes to quickly scaffold the project. Vuex was used for state management, the file-saver package was used to export data as JSON, and the FileReader web API was used to read previously saved files. The project was also made into an app with Neutralino.
 Link: http://youthful-sugar.surge.sh, Code: Available upon request
 
 U.S. Congress 117
@@ -63,5 +64,5 @@ Used Node.js, batch files, cURL, and ImageMagick to scrape data as well as downl
 Link: http://handsome-giraffe.surge.sh, Code: Available upon request
 
 Time Tracker
-Vue.js was used to build the project. Mathematics and the moment package were used to create dynamic progress bars which visualize several durations of time. The project was also recreated using the React and Svelte frameworks.
+Vue.js was used to build the project. Mathematics and the moment package were used to create dynamic progress bars which visualize several durations of time. The project was also recreated using the React and Svelte frameworks, and made into an app with Neutralino.
 Link: http://previous-expert.surge.sh, Code: Available upon request
