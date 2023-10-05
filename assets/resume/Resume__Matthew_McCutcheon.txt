@@ -14,7 +14,8 @@ Art Exhibition: This Image Before Me (2015), Gatov Galleries, Long Beach, CA
 
 Skills:
 Front-End Web Development
-Image Capture and Processing
+Photography
+Photoshop
 HTML5
 CSS3
 Sass
@@ -31,9 +32,9 @@ Bootstrap
 jQuery
 MongoDB
 Web Scraping
+Encryption
 Batch Scripting
 Data Visualization
-Encryption
 State Management
 Visual Studio Code
 Chrome Dev Tools
